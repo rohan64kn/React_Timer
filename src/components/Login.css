@@ -1,0 +1,20 @@
+.card-body-p-5
+{
+    align-items: center;
+    font-weight: bold;
+}
+.d-flex
+{
+    align-items: center;
+    justify-content: center;
+    border-radius: 30%;
+}
+.btn-btn-success-btn-lg{
+    font-size: 18px;
+    color:white;
+    background-color: rgb(78, 88, 136);
+    border-radius: 15%;
+}
+.form-label{
+    font-size: 21px;
+}
